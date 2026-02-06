@@ -1,0 +1,27 @@
+{
+  "name": "playwrightgithubtesting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "playwright": "^1.58.1",
+    "playwright-core": "^1.58.1",
+    "undici-types": "^7.16.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.1",
+    "@types/node": "^25.2.1"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SURENDHAR-G/playwrightGithubTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SURENDHAR-G/playwrightGithubTesting/issues"
+  },
+  "homepage": "https://github.com/SURENDHAR-G/playwrightGithubTesting#readme",
+  "description": ""
+}
